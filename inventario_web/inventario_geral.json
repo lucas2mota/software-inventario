@@ -1,0 +1,2846 @@
+[
+    {
+        "data_coleta": "2025-06-27 11:26:37",
+        "predio": "Arouche",
+        "andar": "10º",
+        "setor": "TI",
+        "patrimonio": "S/P",
+        "modelo": "Inspiron 3030S",
+        "fabricante": "Dell Inc.",
+        "processador": "12th Gen Intel(R) Core(TM) i3-12100",
+        "memoria": "8GB",
+        "hostname": "LMota",
+        "ip": "10.1.0.41",
+        "softwares": [
+            {
+                "nome": "Astah UML 9_1_0",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "CrystalDiskInfo 8.12.12",
+                "versao": "8.12.12"
+            },
+            {
+                "nome": "Git",
+                "versao": "2.49.0"
+            },
+            {
+                "nome": "Microsoft Office Professional Plus 2016 - pt-br",
+                "versao": "16.0.18827.20150"
+            },
+            {
+                "nome": "SAP GUI for Windows 8.00 64bit  (Patch 0)",
+                "versao": "8.00 Compilation 1"
+            },
+            {
+                "nome": "Game Dev Tycoon",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Sublime Text 3",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "TAP-Windows 9.21.0",
+                "versao": "9.21.0"
+            },
+            {
+                "nome": "TeamViewer",
+                "versao": "15.65.6"
+            },
+            {
+                "nome": "WinRAR 5.40 (64-bit)",
+                "versao": "5.40.0"
+            },
+            {
+                "nome": "WinToHDD",
+                "versao": "6.0.2"
+            },
+            {
+                "nome": "XAMPP",
+                "versao": "8.2.12-0"
+            },
+            {
+                "nome": "Python 3.13.0 Executables (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": ".NET for Android Templates (x64)",
+                "versao": "35.0.61.0"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 8.0.16 (x64)",
+                "versao": "64.64.32758"
+            },
+            {
+                "nome": "Microsoft.AspNetCore.Components.WebView.Maui (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Windows SDK DirectX x64 Remote",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Python 3.12.6 Tcl/Tk Support (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Python 3.13.0 Standard Library (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 9.0.5 Shared Framework (x64)",
+                "versao": "9.0.5.25229"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 8.0.16 Targeting Pack (x64)",
+                "versao": "8.0.16.25216"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "DiagnosticsHub_CollectionService",
+                "versao": "17.12.35318"
+            },
+            {
+                "nome": "Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)",
+                "versao": "72.0.32761"
+            },
+            {
+                "nome": "Python 3.13.0 pip Bootstrap (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Java(TM) SE Development Kit 11.0.7 (64-bit)",
+                "versao": "11.0.7.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Runtime.iossimulator-arm64.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Windows.Sdk.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft .NET Host FX Resolver - 7.0.8 (x64)",
+                "versao": "56.35.63143"
+            },
+            {
+                "nome": "Microsoft.Maui.Controls.Build.Tasks (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft .NET Host - 7.0.8 (x64)",
+                "versao": "56.35.63143"
+            },
+            {
+                "nome": "Microsoft.NET.Runtime.MonoTargets.Sdk (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": ".NET MAUI Templates (x64)",
+                "versao": "8.0.100.0"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)",
+                "versao": "72.0.32761"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)",
+                "versao": "72.48.32705"
+            },
+            {
+                "nome": "Python 3.12.6 pip Bootstrap (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Python 3.12.6 Standard Library (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft .NET AppHost Pack - 9.0.5 (x64)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Microsoft.iOS.Sdk.net8.0_17.0 (x64)",
+                "versao": "17.0.8523.0"
+            },
+            {
+                "nome": "Microsoft Update Health Tools",
+                "versao": "3.74.0.0"
+            },
+            {
+                "nome": "Disk Drill 5.3.826.0 (x64)",
+                "versao": "5.3.826.0"
+            },
+            {
+                "nome": "Microsoft.Maui.Core (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Geeks3D FurMark 2.1.0.2 x64",
+                "versao": "2.1.0.2"
+            },
+            {
+                "nome": "Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "DiskGenius V5.5.1",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Microsoft .NET Host FX Resolver - 9.0.5 (x64)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Targeting Pack - 9.0.5 (x64)",
+                "versao": "72.20.32770"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Sdk.net9.0_18.0 (x64)",
+                "versao": "18.0.9617.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Sdk.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)",
+                "versao": "64.136.23253"
+            },
+            {
+                "nome": "Python 3.12.6 Development Libraries (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Universal CRT Tools x64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 7.0.8 (x64)",
+                "versao": "56.35.63153"
+            },
+            {
+                "nome": "Python 3.12.6 Test Suite (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Windows.Sdk.net8.0_18.0 (x64)",
+                "versao": "18.0.8324.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "vs_communityx64msi",
+                "versao": "17.14.36025"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 9.0.5 (x64)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Python 3.12.6 Add to Path (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)",
+                "versao": "72.48.32705"
+            },
+            {
+                "nome": "Python 3.12.6 Documentation (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft.Maui.Controls (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.Android.Runtime.35.android-x64 (x64)",
+                "versao": "35.0.61.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148",
+                "versao": "9.0.30729.4148"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 9.0.5 (x64)",
+                "versao": "72.20.32770"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X64 Debug Runtime - 14.44.35112",
+                "versao": "14.44.35112"
+            },
+            {
+                "nome": "Microsoft.Android.Ref.35 (x64)",
+                "versao": "35.0.61.0"
+            },
+            {
+                "nome": "Microsoft.Maui.Controls.Compatibility (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Python 3.12.6 Executables (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "Google Chrome",
+                "versao": "137.0.7151.120"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)",
+                "versao": "72.48.32705"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)",
+                "versao": "72.48.32705"
+            },
+            {
+                "nome": "Application Verifier x64 External Package (DesktopEditions)",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "vs_devenx64vmsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "vs_Graphics_Singletonx64",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft.Android.Runtime.35.android-arm64 (x64)",
+                "versao": "35.0.61.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft.Maui.Graphics (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Ref.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft System CLR Types para SQL Server 2019",
+                "versao": "15.0.2000.5"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Windows App Certification Kit Native Components",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Dokan Library 1.5.1.1000 (x64)",
+                "versao": "1.5.1.1000"
+            },
+            {
+                "nome": "Microsoft.Maui.Controls.Xaml (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft.Android.Sdk.Windows (x64)",
+                "versao": "35.0.61.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "VS JIT Debugger",
+                "versao": "17.0.157.0"
+            },
+            {
+                "nome": "icecap_collection_x64",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft Visual Studio Installer",
+                "versao": "3.14.2075.50697"
+            },
+            {
+                "nome": "Python 3.13.0 Development Libraries (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35112",
+                "versao": "14.44.35112"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft.Android.Sdk.Windows (x64)",
+                "versao": "34.0.154.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Windows.Sdk.net8.0_17.0 (x64)",
+                "versao": "17.0.8523.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft.Maui.Controls.Core (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)",
+                "versao": "18.4.9288"
+            },
+            {
+                "nome": "Microsoft.Maui.Resizetizer (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.NET.Runtime.MonoTargets.Sdk (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft .NET AppHost Pack - 9.0.5 (x64_arm64)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Application Verifier x64 External Package",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "vs_minshellx64msi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Licensing Component",
+                "versao": "16.0.18827.20150"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component 64-bit Registration",
+                "versao": "16.0.18827.20102"
+            },
+            {
+                "nome": "Python 3.12.6 Core Interpreter (64-bit)",
+                "versao": "3.12.6150.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Windows.Sdk.net9.0_18.0 (x64)",
+                "versao": "18.0.9617.0"
+            },
+            {
+                "nome": "Python 3.13.0 Core Interpreter (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Application Verifier x64 External Package (OnecoreUAP)",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Python 3.13.0 Add to Path (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Microsoft.Android.Runtime.35.android-arm (x64)",
+                "versao": "35.0.61.0"
+            },
+            {
+                "nome": ".NET MAUI SDK (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Sdk.net8.0_18.0 (x64)",
+                "versao": "18.0.8324.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Targeting Pack - 8.0.16 (x64)",
+                "versao": "64.64.32786"
+            },
+            {
+                "nome": "Microsoft .NET Host - 9.0.5 (x64)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35112",
+                "versao": "14.44.35112"
+            },
+            {
+                "nome": "Microsoft.iOS.Sdk.net9.0_18.0 (x64)",
+                "versao": "18.0.9617.0"
+            },
+            {
+                "nome": "Microsoft .NET 9.0 Templates 9.0.300 (x64)",
+                "versao": "36.9.51766"
+            },
+            {
+                "nome": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)",
+                "versao": "18.4.9288"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Node.js",
+                "versao": "22.11.0"
+            },
+            {
+                "nome": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+                "versao": "24.0.28113"
+            },
+            {
+                "nome": "Microsoft Teams Meeting Add-in for Microsoft Office",
+                "versao": "1.24.31301"
+            },
+            {
+                "nome": "Microsoft.iOS.Runtime.iossimulator-x64.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 8.0.16 (x64)",
+                "versao": "64.64.32786"
+            },
+            {
+                "nome": "Microsoft .NET Targeting Pack - 8.0.16 (x64)",
+                "versao": "64.64.32758"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Templates (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Adobe Acrobat (64-bit)",
+                "versao": "25.001.20531"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable (x64)",
+                "versao": "8.0.61000"
+            },
+            {
+                "nome": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)",
+                "versao": "18.4.9288"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 8.0.16 Shared Framework (x64)",
+                "versao": "8.0.16.25216"
+            },
+            {
+                "nome": "NVIDIA Driver do 3D Vision 341.74",
+                "versao": "341.74"
+            },
+            {
+                "nome": "Painel de controle da NVIDIA 341.74",
+                "versao": "341.74"
+            },
+            {
+                "nome": "NVIDIA Driver de gráficos 341.74",
+                "versao": "341.74"
+            },
+            {
+                "nome": "NVIDIA GeForce Experience 3.27.0.120",
+                "versao": "3.27.0.120"
+            },
+            {
+                "nome": "NVIDIA Software do sistema PhysX 9.23.1019",
+                "versao": "9.23.1019"
+            },
+            {
+                "nome": "Atualizações da NVIDIA 39.5.0.0",
+                "versao": "39.5.0.0"
+            },
+            {
+                "nome": "NVIDIA FrameView SDK 1.3.8513.32290073",
+                "versao": "1.3.8513.32290073"
+            },
+            {
+                "nome": "NVIDIA SHIELD Streaming",
+                "versao": "7.1.32568680"
+            },
+            {
+                "nome": "NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)",
+                "versao": "7.1"
+            },
+            {
+                "nome": "NVIDIA Install Application",
+                "versao": "2.1002.417.0"
+            },
+            {
+                "nome": "NVIDIA Backend",
+                "versao": "39.5.0.0"
+            },
+            {
+                "nome": "NVIDIA Container",
+                "versao": "1.37"
+            },
+            {
+                "nome": "NVIDIA TelemetryApi helper for NvContainer",
+                "versao": "1.37"
+            },
+            {
+                "nome": "NVIDIA LocalSystem Container",
+                "versao": "1.37"
+            },
+            {
+                "nome": "NVIDIA Message Bus for NvContainer",
+                "versao": "1.34"
+            },
+            {
+                "nome": "NVIDIA NVAPI Monitor plugin for NvContainer",
+                "versao": "1.0"
+            },
+            {
+                "nome": "NVIDIA NetworkService Container",
+                "versao": "1.37"
+            },
+            {
+                "nome": "NVIDIA Session Container",
+                "versao": "1.37"
+            },
+            {
+                "nome": "NVIDIA User Container",
+                "versao": "1.37"
+            },
+            {
+                "nome": "NVIDIA NvModuleTracker",
+                "versao": "6.14.25214.24630"
+            },
+            {
+                "nome": "NVIDIA NodeJS",
+                "versao": "3.27.0.120"
+            },
+            {
+                "nome": "NVIDIA Watchdog Plugin for NvContainer",
+                "versao": "1.37"
+            },
+            {
+                "nome": "NVIDIA Telemetry Client",
+                "versao": "17.1.7.0"
+            },
+            {
+                "nome": "NVIDIA Virtual Host Controller",
+                "versao": "3.05.0.1"
+            },
+            {
+                "nome": "Nvidia Share",
+                "versao": "3.27.0.120"
+            },
+            {
+                "nome": "NVIDIA ShadowPlay 3.27.0.120",
+                "versao": "3.27.0.120"
+            },
+            {
+                "nome": "NVIDIA SHIELD Wireless Controller Driver",
+                "versao": "3.27.0.116"
+            },
+            {
+                "nome": "NVIDIA Update Core",
+                "versao": "39.5.0.0"
+            },
+            {
+                "nome": "NVIDIA Virtual Audio 4.49.0.0",
+                "versao": "4.49.0.0"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 7.0.8 (x64)",
+                "versao": "56.35.63143"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "vs_minshellinteropx64msi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft.Android.Runtime.35.android-x86 (x64)",
+                "versao": "35.0.61.0"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)",
+                "versao": "72.0.32761"
+            },
+            {
+                "nome": "Microsoft .NET AppHost Pack - 8.0.16 (x64_arm64)",
+                "versao": "64.64.32758"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft .NET AppHost Pack - 8.0.16 (x64_x86)",
+                "versao": "64.64.32758"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Sdk.net8.0_18.0 (x64)",
+                "versao": "18.0.8324.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Python 3.13.0 Tcl/Tk Support (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": ".NET MAUI SDK (x64)",
+                "versao": "8.0.100.0"
+            },
+            {
+                "nome": "Python 3.13.0 Documentation (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Python 3.13.0 Test Suite (64-bit)",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Microsoft .NET Toolset 9.0.300 (x64)",
+                "versao": "36.9.35382"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)",
+                "versao": "9.0.51"
+            },
+            {
+                "nome": "Microsoft.Maui.Essentials (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Ref.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Update for x64-based Windows Systems (KB5001716)",
+                "versao": "8.94.0.0"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft .NET Targeting Pack - 9.0.5 (x64)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Microsoft Web Deploy 4.0",
+                "versao": "10.0.9419"
+            },
+            {
+                "nome": "Microsoft .NET AppHost Pack - 9.0.5 (x64_x86)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)",
+                "versao": "35.0.61"
+            },
+            {
+                "nome": "Microsoft .NET 8.0 Templates 8.0.409 (x64)",
+                "versao": "32.13.31980"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Sdk.net8.0_17.0 (x64)",
+                "versao": "17.0.8523.0"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 9.0.5 Targeting Pack (x64)",
+                "versao": "9.0.5.25229"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)",
+                "versao": "9.0.5.0"
+            },
+            {
+                "nome": "Microsoft.MacCatalyst.Sdk.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft.iOS.Runtime.ios-arm64.net9.0_18.4 (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft .NET AppHost Pack - 8.0.16 (x64)",
+                "versao": "64.64.32758"
+            },
+            {
+                "nome": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)",
+                "versao": "15.4.9288"
+            },
+            {
+                "nome": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)",
+                "versao": "72.0.32761"
+            },
+            {
+                "nome": ".NET MAUI Templates (x64)",
+                "versao": "9.0.51.0"
+            },
+            {
+                "nome": "VS Script Debugging Common",
+                "versao": "17.0.157.0"
+            },
+            {
+                "nome": "IntelliTraceProfilerProxy",
+                "versao": "15.0.21225.01"
+            },
+            {
+                "nome": "Microsoft.iOS.Templates (x64)",
+                "versao": "18.4.9288.0"
+            },
+            {
+                "nome": "Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64)",
+                "versao": "8.0.16.0"
+            },
+            {
+                "nome": "Microsoft .NET SDK 9.0.300 (x64) from Visual Studio",
+                "versao": "9.3.25.25206"
+            },
+            {
+                "nome": "Visual Studio Community 2022",
+                "versao": "17.14.0"
+            },
+            {
+                "nome": "AnyDesk",
+                "versao": "ad 9.0.7"
+            },
+            {
+                "nome": "Bematech Spooler Drivers v4.3.1.0",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Dev-C++",
+                "versao": "5.3.0.3"
+            },
+            {
+                "nome": "Ferramentas de Build do Visual Studio 2019",
+                "versao": "16.11.42"
+            },
+            {
+                "nome": "EaseUS Todo Backup Home 2023",
+                "versao": "2023.5"
+            },
+            {
+                "nome": "KeePass Password Safe 2.57.1",
+                "versao": "2.57.1"
+            },
+            {
+                "nome": "Microsoft Edge",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Microsoft Edge WebView2 Runtime",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Nmap 7.97",
+                "versao": "7.97"
+            },
+            {
+                "nome": "Npcap",
+                "versao": "1.82"
+            },
+            {
+                "nome": "oCam versão 550.0",
+                "versao": "550.0"
+            },
+            {
+                "nome": "OpenAL",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "PyCharm Community Edition 2023.3.1",
+                "versao": "233.11799.298"
+            },
+            {
+                "nome": "Samsung Printer Center",
+                "versao": "1.0.0.28"
+            },
+            {
+                "nome": "Skype versão 8.150",
+                "versao": "8.150"
+            },
+            {
+                "nome": "Steam",
+                "versao": "2.10.91.91"
+            },
+            {
+                "nome": "Uninstall Samsung Printer Software",
+                "versao": "4.0.0.93"
+            },
+            {
+                "nome": "Windows Mobile Extension SDK Contracts",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Visual C++ Library CRT Appx Package",
+                "versao": "14.44.35207"
+            },
+            {
+                "nome": "Web Components",
+                "versao": "3.0.7.500"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664",
+                "versao": "12.0.40664.0"
+            },
+            {
+                "nome": "Universal CRT Redistributable",
+                "versao": "10.0.26624"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "Dokan Library 1.5.1.1000 Bundle",
+                "versao": "1.5.1.1000"
+            },
+            {
+                "nome": "Windows SDK Desktop Tools arm64",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "SDK ARM64 Additions",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows IoT Extension SDK",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft .NET Host - 9.0.5 (x86)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "vcpp_crt.redist.clickonce",
+                "versao": "14.29.30157"
+            },
+            {
+                "nome": "WinRT Intellisense UAP - en-us",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "ELGINUtilitySetup V1.2.2.28",
+                "versao": "V1.2.2.28"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK Desktop Headers x64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK EULA",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "WinRT Intellisense PPI - en-us",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 8.0.16 (x86)",
+                "versao": "64.64.32786"
+            },
+            {
+                "nome": "Windows SDK Desktop Libs x64",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+                "versao": "4.7.03062"
+            },
+            {
+                "nome": "vs_CoreEditorFonts",
+                "versao": "17.7.40001"
+            },
+            {
+                "nome": "Microsoft .NET Host FX Resolver - 9.0.5 (x86)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Windows SDK OnecoreUap Headers x64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "vs_clickoncebootstrappermsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "vs_tipsmsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "Windows SDK Modern Versioned Developer Tools",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Desktop Tools x86",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35112",
+                "versao": "14.44.35112"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Targeting Pack - 8.0.16 (x86)",
+                "versao": "64.64.32786"
+            },
+            {
+                "nome": "Microsoft GameInput",
+                "versao": "10.1.22621.3036"
+            },
+            {
+                "nome": "Python Launcher",
+                "versao": "3.13.150.0"
+            },
+            {
+                "nome": "Windows App Certification Kit x64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Libs",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "WicReset version 5.90.0.0",
+                "versao": "5.90.0.0"
+            },
+            {
+                "nome": "WinRT Intellisense IoT - Other Languages",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "vs_filehandler_amd64",
+                "versao": "17.14.36024"
+            },
+            {
+                "nome": "WinRT Intellisense PPI - Other Languages",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Universal General MIDI DLS Extension SDK",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 9.0.5 Shared Framework (x86)",
+                "versao": "9.0.5.25229"
+            },
+            {
+                "nome": "vcpp_crt.redist.clickonce",
+                "versao": "14.44.35112"
+            },
+            {
+                "nome": "vs_githubprotocolhandlermsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Contracts",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK Desktop Libs arm",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "WinAppDeploy",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Metadata",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK Facade Windows WinMD Versioned",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Headers",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Lightshot-5.5.0.7",
+                "versao": "5.5.0.7"
+            },
+            {
+                "nome": "Visual C++ Library CRT ARM64 Appx Package",
+                "versao": "14.44.35207"
+            },
+            {
+                "nome": "Visual C++ Library CRT Appx Package",
+                "versao": "14.44.35207"
+            },
+            {
+                "nome": "WinRT Intellisense IoT - en-us",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+                "versao": "11.0.61030.0"
+            },
+            {
+                "nome": "Windows SDK Signing Tools",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "SDK ARM64 Redistributables",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Desktop Libs x64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows App Certification Kit SupportedApiList x86",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "CentBrowser",
+                "versao": "1.1.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35112",
+                "versao": "14.44.35112.1"
+            },
+            {
+                "nome": "Windows SDK Desktop Headers x86",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Universal CRT Redistributable",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "WinRT Intellisense IoT - en-us",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "vs_vswebprotocolselectormsires",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "WinRT Intellisense Mobile - en-us",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Contracts",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Software Development Kit - Windows 10.0.19041.685",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK Redistributables",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Desktop Extension SDK",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Facade Windows WinMD Versioned",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "vs_communitymsires",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Remoted iOS Simulator for Visual Studio",
+                "versao": "17.14.0.584"
+            },
+            {
+                "nome": "WinRT Intellisense PPI - en-us",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft Visual Studio Setup WMI Provider",
+                "versao": "3.12.2140.44225"
+            },
+            {
+                "nome": "Windows IoT Extension SDK Contracts",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Managed Apps Libs",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Disk Drill 5.3.826.0",
+                "versao": "5.3.826.0"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Tools",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Pacote de Direcionamento do Microsoft .NET Framework 4.7.2 (Português (Brasil))",
+                "versao": "4.7.03062"
+            },
+            {
+                "nome": "Windows SDK Desktop Headers arm",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Universal CRT Extension SDK",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows Software Development Kit - Windows 10.0.26100.3916",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "vs_clickoncesigntoolmsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "vs_minshellinteropsharedmsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Windows SDK Desktop Headers arm64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Team Extension SDK Contracts",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK DirectX x86 Remote",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Google Update Helper",
+                "versao": "1.3.36.51"
+            },
+            {
+                "nome": "Windows App Certification Kit x64 (OnecoreUAP)",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Agent Shell",
+                "versao": "2.1.0.0"
+            },
+            {
+                "nome": "Visual C++ Library CRT Appx Resource Package",
+                "versao": "14.44.35207"
+            },
+            {
+                "nome": "Universal CRT Headers Libraries and Sources",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 8.0.16 (x86)",
+                "versao": "64.64.32758"
+            },
+            {
+                "nome": "icecap_collectionresourcesx64",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Windows SDK ARM64 Desktop Tools",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "vs_filehandler_x86",
+                "versao": "17.14.36024"
+            },
+            {
+                "nome": "WPTx64 (DesktopEditions)",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable",
+                "versao": "8.0.61001"
+            },
+            {
+                "nome": "vs_communitysharedmsi",
+                "versao": "17.14.36025"
+            },
+            {
+                "nome": "Windows Mobile Extension SDK",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35112",
+                "versao": "14.44.35112"
+            },
+            {
+                "nome": "Microsoft NetStandard SDK",
+                "versao": "15.0.51105"
+            },
+            {
+                "nome": "Universal CRT Tools x86",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "WPT Redistributables",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 8.0.16 Shared Framework (x86)",
+                "versao": "8.0.16.25216"
+            },
+            {
+                "nome": "MSI Development Tools",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Targeting Pack - 9.0.5 (x86)",
+                "versao": "72.20.32770"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Headers OnecoreUap",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Mobile Extension SDK Contracts",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "MSI Development Tools",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK Desktop Libs x86",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "WinAppDeploy",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Kits Configuration Installer",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft TestPlatform SDK Local Feed",
+                "versao": "17.10.0.9037153"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "Visual C++ Library CRT Desktop Appx Package",
+                "versao": "14.44.35207"
+            },
+            {
+                "nome": "Windows Team Extension SDK",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Desktop Tools x86",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 9.0.5 Targeting Pack (x86)",
+                "versao": "9.0.5.25229"
+            },
+            {
+                "nome": "WinRT Intellisense UAP - Other Languages",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "windows_toolscorepkg",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "vs_minshellmsires",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Windows SDK Modern Non-Versioned Developer Tools",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Headers",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component",
+                "versao": "16.0.18827.20102"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Localization Component",
+                "versao": "16.0.18827.20102"
+            },
+            {
+                "nome": "Windows SDK Desktop Libs x86",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Mobile Extension SDK",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "ELGIN Printer Driver v1.8.0",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "Windows SDK ARM Desktop Tools",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft .NET Framework 4.8 SDK",
+                "versao": "4.8.03928"
+            },
+            {
+                "nome": "Windows SDK Desktop Libs arm64",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "vs_vswebprotocolselectormsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "WinRT Intellisense IoT - Other Languages",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Desktop Tools arm64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "WinRT Intellisense Desktop - en-us",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Visual C++ Library CRT Desktop Appx Package",
+                "versao": "14.44.35207"
+            },
+            {
+                "nome": "WPTx64 (OnecoreUAP)",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+                "versao": "9.0.30729.6161"
+            },
+            {
+                "nome": "vs_clickoncebootstrappermsires",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+                "versao": "12.0.40664.0"
+            },
+            {
+                "nome": "Windows SDK Desktop Tools x64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Desktop Extension SDK Contracts",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK OnecoreUap Headers arm64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Team Extension SDK Contracts",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows Desktop Extension SDK Contracts",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK EULA",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Universal CRT Redistributable",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Tools",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Universal General MIDI DLS Extension SDK",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35112",
+                "versao": "14.44.35112.1"
+            },
+            {
+                "nome": "Microsoft ASP.NET Core 8.0.16 Targeting Pack (x86)",
+                "versao": "8.0.16.25216"
+            },
+            {
+                "nome": "Pokerag versão 3.0",
+                "versao": "3.0"
+            },
+            {
+                "nome": "update_server",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Adobe Refresh Manager",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "SDK do Microsoft .NET Framework 4.8 (Português (Brasil))",
+                "versao": "4.8.03761"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.44.35112",
+                "versao": "14.44.35112"
+            },
+            {
+                "nome": "WinRT Intellisense Desktop - Other Languages",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "vs_devenvsharedmsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Windows SDK Desktop Headers x86",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Signing Tools",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Metadata",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows IoT Extension SDK",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Desktop Libs arm64",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "icecap_collection_neutral",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "WinRT Intellisense Desktop - en-us",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+                "versao": "4.8.09256"
+            },
+            {
+                "nome": "VS Immersive Activate Helper",
+                "versao": "17.0.157.0"
+            },
+            {
+                "nome": "icecap_collectionresources",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 9.0.5 (x86)",
+                "versao": "72.20.32770"
+            },
+            {
+                "nome": "Microsoft .NET Targeting Pack - 9.0.5 (x86)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "Windows SDK Desktop Headers x64",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps Libs",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK Desktop Headers arm64",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "IntelliTraceProfilerProxy",
+                "versao": "15.0.21225.01"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+                "versao": "11.0.61030.0"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 9.0.5 (x86)",
+                "versao": "72.20.32761"
+            },
+            {
+                "nome": "iVMS-4200",
+                "versao": "3.6.1.5"
+            },
+            {
+                "nome": "Windows Team Extension SDK",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Visual Studio Setup Configuration",
+                "versao": "3.12.2140.44225"
+            },
+            {
+                "nome": "Visual C++ Library CRT Desktop Appx Package",
+                "versao": "14.44.35207"
+            },
+            {
+                "nome": "vs_SQLClickOnceBootstrappermsi",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 7.0.8 (x64)",
+                "versao": "7.0.8.32619"
+            },
+            {
+                "nome": "vs_FileTracker_Singleton",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Windows Desktop Extension SDK",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "Universal CRT Extension SDK",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows IoT Extension SDK Contracts",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Assistente de Atualização do Windows 10",
+                "versao": "1.4.19041.2183"
+            },
+            {
+                "nome": "vs_Graphics_Singletonx86",
+                "versao": "17.14.36015"
+            },
+            {
+                "nome": "Microsoft XNA Framework Redistributable 4.0 Refresh",
+                "versao": "4.0.30901.0"
+            },
+            {
+                "nome": "TightVNC",
+                "versao": "2.7.10.0"
+            },
+            {
+                "nome": "Universal CRT Headers Libraries and Sources",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Advanced IP Scanner 2.5.1",
+                "versao": "2.5.4594.1"
+            },
+            {
+                "nome": "Windows SDK AddOn",
+                "versao": "10.1.0.0"
+            },
+            {
+                "nome": "WinRT Intellisense Mobile - en-us",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "WinRT Intellisense UAP - Other Languages",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Windows SDK OnecoreUap Headers x86",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "WinRT Intellisense Desktop - Other Languages",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Intel(R) Processor Graphics",
+                "versao": "20.19.15.4963"
+            },
+            {
+                "nome": "Realtek High Definition Audio Driver",
+                "versao": "6.0.9239.1"
+            },
+            {
+                "nome": "Pacote IntelliSense Cumulativo do Microsoft .NET Framework para Visual Studio (Português do Brasil)",
+                "versao": "4.8.09037"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "vs_minshellsharedmsi",
+                "versao": "17.14.36024"
+            },
+            {
+                "nome": "Windows SDK Desktop Tools x64",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK Modern Versioned Developer Tools",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "WinRT Intellisense UAP - en-us",
+                "versao": "10.1.26100.3916"
+            },
+            {
+                "nome": "WinRT Intellisense PPI - Other Languages",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Windows SDK for Windows Store Managed Apps Libs",
+                "versao": "10.1.19041.685"
+            },
+            {
+                "nome": "Microsoft .NET Targeting Pack - 8.0.16 (x86)",
+                "versao": "64.64.32758"
+            }
+        ]
+    },
+    {
+        "data_coleta": "2025-06-27 11:54:44",
+        "predio": "Arouche",
+        "andar": "10",
+        "setor": "TI",
+        "patrimonio": "S/P",
+        "modelo": "Inspiron 3030S",
+        "fabricante": "Dell Inc.",
+        "processador": "12th Gen Intel(R) Core(TM) i3-12100",
+        "memoria": "8GB",
+        "hostname": "PalermoTI",
+        "ip": "10.1.0.27",
+        "softwares": [
+            {
+                "nome": "Pacote de Driver do Windows - SAMSUNG Electronics Co., Ltd.  (WinUSB) AndroidUsbDeviceClass  (12/02/2015 2.12.1.0)",
+                "versao": "12/02/2015 2.12.1.0"
+            },
+            {
+                "nome": "Pacote de Driver do Windows - SAMSUNG Electronics Co., Ltd.  (dg_ssudbus) USB  (12/02/2015 2.12.1.0)",
+                "versao": "12/02/2015 2.12.1.0"
+            },
+            {
+                "nome": "Pacote de Driver do Windows - SAMSUNG Electronics Co., Ltd.  (ssudmdm) Modem  (12/02/2015 2.12.1.0)",
+                "versao": "12/02/2015 2.12.1.0"
+            },
+            {
+                "nome": "Pacote de Driver do Windows - Google, Inc. (WinUSB) AndroidUsbDeviceClass  (08/27/2012 7.0.0000.00004)",
+                "versao": "08/27/2012 7.0.0000.00004"
+            },
+            {
+                "nome": "CPUID CPU-Z 1.97",
+                "versao": "1.97"
+            },
+            {
+                "nome": "CrystalDiskInfo 8.12.12",
+                "versao": "8.12.12"
+            },
+            {
+                "nome": "Desinstalar Impressora EPSON L4150 Series",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Desinstalar Impressora EPSON Universal Print Driver",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Firebird 2.5.0.26074 (x64)",
+                "versao": "2.5.0.26074"
+            },
+            {
+                "nome": "Mem Reduct",
+                "versao": "3.5.2"
+            },
+            {
+                "nome": "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+                "versao": "10.0.50903"
+            },
+            {
+                "nome": "Pacote de Idiomas do Microsoft Visual Studio 2010 Tools for Office Runtime (x64) - Português (Brasil)",
+                "versao": "10.0.50903"
+            },
+            {
+                "nome": "PaperCut NG",
+                "versao": "23.0.6.68529"
+            },
+            {
+                "nome": "Microsoft Office Professional Plus 2016 - pt-br",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "Sublime Text",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "TeamViewer",
+                "versao": "15.67.3"
+            },
+            {
+                "nome": "WinRAR 5.40 (64-bit)",
+                "versao": "5.40.0"
+            },
+            {
+                "nome": "WinToHDD",
+                "versao": "6.6.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "PuTTY release 0.75 (64-bit)",
+                "versao": "0.75.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable (x64)",
+                "versao": "8.0.56336"
+            },
+            {
+                "nome": "Acronis Drivers",
+                "versao": "27.0.39939"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Oracle VM VirtualBox 7.0.8",
+                "versao": "7.0.8"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 5.0.17 (x64)",
+                "versao": "40.68.31219"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148",
+                "versao": "9.0.30729.4148"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "64 Bit HP CIO Components Installer",
+                "versao": "6.2.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 5.0.17 (x64)",
+                "versao": "40.68.31213"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+                "versao": "9.0.30729.6161"
+            },
+            {
+                "nome": "Microsoft Power BI Desktop (x64)",
+                "versao": "2.131.1203.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 6.0.22 (x64)",
+                "versao": "48.88.914"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 6.0.22 (x64)",
+                "versao": "48.88.905"
+            },
+            {
+                "nome": "Microsoft .NET Host FX Resolver - 5.0.17 (x64)",
+                "versao": "40.68.31213"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Licensing Component",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Localization Component",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "EpsonNet Print",
+                "versao": "3.2.0.0"
+            },
+            {
+                "nome": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+                "versao": "10.0.50908"
+            },
+            {
+                "nome": "Revo Uninstaller 2.2.8",
+                "versao": "2.2.8"
+            },
+            {
+                "nome": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - PTB",
+                "versao": "10.0.50903"
+            },
+            {
+                "nome": "Microsoft .NET Host - 6.0.22 (x64)",
+                "versao": "48.88.905"
+            },
+            {
+                "nome": "Microsoft Teams Meeting Add-in for Microsoft Office",
+                "versao": "1.25.14205"
+            },
+            {
+                "nome": "Adobe Acrobat (64-bit)",
+                "versao": "25.001.20531"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable (x64)",
+                "versao": "8.0.61000"
+            },
+            {
+                "nome": "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)",
+                "versao": "2.0.50728"
+            },
+            {
+                "nome": "Epson Customer Research Participation",
+                "versao": "1.83.0000"
+            },
+            {
+                "nome": "Verificação de integridade do PC Windows",
+                "versao": "3.2.2110.14001"
+            },
+            {
+                "nome": "Microsoft Update Health Tools",
+                "versao": "5.72.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "Microsoft .NET Host - 5.0.17 (x64)",
+                "versao": "40.68.31213"
+            },
+            {
+                "nome": "Microsoft .NET Host FX Resolver - 6.0.22 (x64)",
+                "versao": "48.88.905"
+            },
+            {
+                "nome": "AnyDesk",
+                "versao": "ad 9.0.7"
+            },
+            {
+                "nome": "Bematech Spooler Drivers v4.3.1.0",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Bematech User Software",
+                "versao": "Bematech User Software v2.8.3 for 64 bits"
+            },
+            {
+                "nome": "Brave",
+                "versao": "138.1.80.113"
+            },
+            {
+                "nome": "Driver Booster 12",
+                "versao": "12.3.0"
+            },
+            {
+                "nome": "Google Chrome",
+                "versao": "138.0.7204.49"
+            },
+            {
+                "nome": "KeePass Password Safe 2.57.1",
+                "versao": "2.57.1"
+            },
+            {
+                "nome": "Microsoft Edge",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Microsoft Edge WebView2 Runtime",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Mozilla Firefox 28.0 (x86 pt-BR)",
+                "versao": "28.0"
+            },
+            {
+                "nome": "Mozilla Maintenance Service",
+                "versao": "28.0"
+            },
+            {
+                "nome": "Nmap 7.97",
+                "versao": "7.97"
+            },
+            {
+                "nome": "Npcap",
+                "versao": "1.82"
+            },
+            {
+                "nome": "oCam versão 550.0",
+                "versao": "550.0"
+            },
+            {
+                "nome": "PrintWayy",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Samsung Printer Center",
+                "versao": "1.0.0.12"
+            },
+            {
+                "nome": "Tftpd64 Standalone Edition (remove only)",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Uninstall Samsung Printer Software",
+                "versao": "4.0.0.93"
+            },
+            {
+                "nome": "Web Components",
+                "versao": "3.0.7.500"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664",
+                "versao": "12.0.40664.0"
+            },
+            {
+                "nome": "ELGINUtilitySetup V1.2.2.28",
+                "versao": "V1.2.2.28"
+            },
+            {
+                "nome": "hppP1100P1560P1600SeriesLaserJetService",
+                "versao": "001.001.0.0"
+            },
+            {
+                "nome": "Scan",
+                "versao": "13.0.0.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 6.0.22 (x64)",
+                "versao": "6.0.22.32825"
+            },
+            {
+                "nome": "Brother Scanner Driver",
+                "versao": "1.0.20.1"
+            },
+            {
+                "nome": "MarketResearch",
+                "versao": "130.0.374.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "ControlCenter4 CSDK",
+                "versao": "4.3.2.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148",
+                "versao": "9.0.30729.4148"
+            },
+            {
+                "nome": "WicReset version 5.90.0.0",
+                "versao": "5.90.0.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 5.0.17 (x64)",
+                "versao": "5.0.17.31219"
+            },
+            {
+                "nome": "BufferChm",
+                "versao": "130.0.331.000"
+            },
+            {
+                "nome": "Microsoft PowerBI Desktop (x64)",
+                "versao": "2.131.1203.0"
+            },
+            {
+                "nome": "Lightshot-5.5.0.7",
+                "versao": "5.5.0.7"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+                "versao": "11.0.61030.0"
+            },
+            {
+                "nome": "HowToGuide",
+                "versao": "1.0.1.0"
+            },
+            {
+                "nome": "CentBrowser",
+                "versao": "1.1.0"
+            },
+            {
+                "nome": "PCFaxTx",
+                "versao": "1.0.18.1"
+            },
+            {
+                "nome": "4500G510af_Software_Min",
+                "versao": "000.0.423.000"
+            },
+            {
+                "nome": "WebReg",
+                "versao": "130.0.132.017"
+            },
+            {
+                "nome": "Brother PCFax Driver",
+                "versao": "1.4.0.0"
+            },
+            {
+                "nome": "neroxml",
+                "versao": "1.0.0"
+            },
+            {
+                "nome": "PC-FAXReceive",
+                "versao": "1.6.17.0"
+            },
+            {
+                "nome": "ScannerUtilityInstaller",
+                "versao": "1.0.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "Counter-Strike 1.6 versão 3.0",
+                "versao": "3.0"
+            },
+            {
+                "nome": "HPSSupply",
+                "versao": "130.0.371.000"
+            },
+            {
+                "nome": "Toolbox",
+                "versao": "130.0.648.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable",
+                "versao": "8.0.61001"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "hppusgP1100P1560P1600Series",
+                "versao": "1.0.0.1"
+            },
+            {
+                "nome": "Brother Printer Driver",
+                "versao": "1.3.0.0"
+            },
+            {
+                "nome": "4500G510af",
+                "versao": "000.0.423.000"
+            },
+            {
+                "nome": "ELGIN Printer Driver v1.8.0",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "NetworkRepairTool",
+                "versao": "1.2.15.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "DocProc",
+                "versao": "13.0.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+                "versao": "9.0.30729.6161"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+                "versao": "12.0.40664.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "MSI to redistribute MS VS2005 CRT libraries",
+                "versao": "8.0.50727.42"
+            },
+            {
+                "nome": "update_server",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Adobe Refresh Manager",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438",
+                "versao": "14.42.34438.0"
+            },
+            {
+                "nome": "BrLogRx",
+                "versao": "1.0.2.1"
+            },
+            {
+                "nome": "StatusMonitor",
+                "versao": "1.22.25.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438",
+                "versao": "14.42.34438.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "BrLauncher",
+                "versao": "2.0.17.0"
+            },
+            {
+                "nome": "4500_G510af_Help",
+                "versao": "000.0.439.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+                "versao": "11.0.61030.0"
+            },
+            {
+                "nome": "ControlCenter4",
+                "versao": "4.6.22.1"
+            },
+            {
+                "nome": "iVMS-4200",
+                "versao": "3.6.1.5"
+            },
+            {
+                "nome": "MobaXterm",
+                "versao": "21.2.0.4642"
+            },
+            {
+                "nome": "hppLaserJetService",
+                "versao": "001.001.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "TightVNC",
+                "versao": "2.7.10.0"
+            },
+            {
+                "nome": "Advanced IP Scanner 2.5.1",
+                "versao": "2.5.4594.1"
+            },
+            {
+                "nome": "BrSupportTools",
+                "versao": "1.0.27.0"
+            },
+            {
+                "nome": "RemoteSetup",
+                "versao": "3.10.3.0"
+            },
+            {
+                "nome": "MSI to redistribute MS VS2005 CRT libraries",
+                "versao": "8.0.50727.42"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "Realtek Ethernet Controller All-In-One Windows Driver",
+                "versao": "10.60.615.2022"
+            },
+            {
+                "nome": "UsbRepairTool",
+                "versao": "1.4.0.0"
+            }
+        ]
+    },
+    {
+        "data_coleta": "2025-06-27 15:51:03",
+        "predio": "Arouche",
+        "andar": "10º",
+        "setor": "TI",
+        "patrimonio": "00123",
+        "modelo": "10TXA00CBP",
+        "fabricante": "LENOVO",
+        "processador": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+        "memoria": "12GB",
+        "hostname": "NICOLASICAVC",
+        "ip": "10.1.0.18",
+        "softwares": [
+            {
+                "nome": "IRPF 2025 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País ",
+                "versao": "1.2"
+            },
+            {
+                "nome": "Microsoft OneDrive",
+                "versao": "25.095.0518.0002"
+            },
+            {
+                "nome": "Microsoft Office Professional Plus 2016 - pt-br",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "TeamViewer",
+                "versao": "15.47.3"
+            },
+            {
+                "nome": "WinRAR 5.40 (64-bit)",
+                "versao": "5.40.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2019 X64 Additional Runtime - 14.27.29112",
+                "versao": "14.27.29112"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Verificação de integridade do PC Windows",
+                "versao": "3.6.2204.08001"
+            },
+            {
+                "nome": "AWP 5.1.8 (64-bit)",
+                "versao": "5.1.8.825"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.27.29112",
+                "versao": "14.27.29112"
+            },
+            {
+                "nome": "PC-CCID",
+                "versao": "2.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "Java 8 Update 451 (64-bit)",
+                "versao": "8.0.4510.10"
+            },
+            {
+                "nome": "UpdateAssistant",
+                "versao": "1.25.0.0"
+            },
+            {
+                "nome": "Java(TM) SE Development Kit 17.0.9 (64-bit)",
+                "versao": "17.0.9.0"
+            },
+            {
+                "nome": "SafeSign IC Standard Windows 64-bits",
+                "versao": "3.5.3.0-AET.000"
+            },
+            {
+                "nome": "Update for Windows 10 for x64-based Systems (KB5001716)",
+                "versao": "4.91.0.0"
+            },
+            {
+                "nome": "SafeNet Authentication Client 10.6",
+                "versao": "10.6.115.0"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Licensing Component",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Localization Component",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            },
+            {
+                "nome": "Microsoft Teams Meeting Add-in for Microsoft Office",
+                "versao": "1.24.14501"
+            },
+            {
+                "nome": "Adobe Acrobat (64-bit)",
+                "versao": "25.001.20531"
+            },
+            {
+                "nome": "Microsoft Update Health Tools",
+                "versao": "5.72.0.0"
+            },
+            {
+                "nome": "AnyDesk",
+                "versao": "ad 7.0.15"
+            },
+            {
+                "nome": "Google Chrome",
+                "versao": "137.0.7151.120"
+            },
+            {
+                "nome": "Microsoft Edge",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Microsoft Edge WebView2 Runtime",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "oCam versão 550.0",
+                "versao": "550.0"
+            },
+            {
+                "nome": "Uninstall Samsung Printer Software",
+                "versao": "4.0.0.93"
+            },
+            {
+                "nome": "Web Components",
+                "versao": "3.0.6.27"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810",
+                "versao": "14.40.33810"
+            },
+            {
+                "nome": "hppP1100P1560P1600SeriesLaserJetService",
+                "versao": "001.001.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29112",
+                "versao": "14.27.29112.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            },
+            {
+                "nome": "MarketResearch",
+                "versao": "130.0.374.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "osrss",
+                "versao": "1.0.0"
+            },
+            {
+                "nome": "Lightshot-5.5.0.7",
+                "versao": "5.5.0.7"
+            },
+            {
+                "nome": "CentBrowser",
+                "versao": "1.1.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33810",
+                "versao": "14.40.33810.0"
+            },
+            {
+                "nome": "Java Auto Updater",
+                "versao": "2.8.451.10"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810",
+                "versao": "14.40.33810"
+            },
+            {
+                "nome": "OMNIKEY 3x21 PC/SC Driver",
+                "versao": "3.0.1.0"
+            },
+            {
+                "nome": "Agent Shell",
+                "versao": "2.1.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable",
+                "versao": "8.0.61001"
+            },
+            {
+                "nome": "hppusgP1100P1560P1600Series",
+                "versao": "1.0.0.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+                "versao": "9.0.30729.6161"
+            },
+            {
+                "nome": "SCR3xxx Smart Card Reader",
+                "versao": "8.41"
+            },
+            {
+                "nome": "update_server",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Adobe Refresh Manager",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "TightVNC",
+                "versao": "2.7.10.0"
+            },
+            {
+                "nome": "Advanced IP Scanner 2.5.1",
+                "versao": "2.5.4594.1"
+            },
+            {
+                "nome": "MSI to redistribute MS VS2005 CRT libraries",
+                "versao": "8.0.50727.42"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            }
+        ]
+    },
+    {
+        "data_coleta": "2025-06-27 16:28:31",
+        "predio": "Arouche",
+        "andar": "7º",
+        "setor": "Rh",
+        "patrimonio": "003584",
+        "modelo": "Vostro 3710",
+        "fabricante": "Dell Inc.",
+        "processador": "12th Gen Intel(R) Core(TM) i3-12100",
+        "memoria": "8GB",
+        "hostname": "RH003584",
+        "ip": "10.1.0.90",
+        "softwares": [
+            {
+                "nome": "EPSON L5590 Series Printer Uninstall",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Microsoft Office Professional Plus 2019 - pt-br",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "WinRAR 7.00 (64-bit)",
+                "versao": "7.00.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Licensing Component",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Localization Component",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "EpsonNet Print",
+                "versao": "3.2.0.0"
+            },
+            {
+                "nome": "Microsoft Teams Meeting Add-in for Microsoft Office",
+                "versao": "1.25.14602"
+            },
+            {
+                "nome": "Microsoft Update Health Tools",
+                "versao": "5.72.0.0"
+            },
+            {
+                "nome": "Update for x64-based Windows Systems (KB5001716)",
+                "versao": "8.94.0.0"
+            },
+            {
+                "nome": "Epson Data Collection Agent",
+                "versao": "7.1"
+            },
+            {
+                "nome": "Epson PC-FAX Driver",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Epson Scan 2",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Google Chrome",
+                "versao": "137.0.7151.120"
+            },
+            {
+                "nome": "Microsoft Edge",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Microsoft Edge WebView2 Runtime",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Epson Photo+",
+                "versao": "4.0.2.0"
+            },
+            {
+                "nome": "Uninstall Samsung Printer Software",
+                "versao": "4.0.0.93"
+            },
+            {
+                "nome": "Manual Epson L5590",
+                "versao": "1.0"
+            },
+            {
+                "nome": "Epson FAX Utility",
+                "versao": "4.04.02.01"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27027",
+                "versao": "14.16.27027.1"
+            },
+            {
+                "nome": "CentBrowser",
+                "versao": "1.1.0"
+            },
+            {
+                "nome": "Epson Printer Connection Checker",
+                "versao": "3.4.1.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2017 X86 Minimum Runtime - 14.16.27024",
+                "versao": "14.16.27024"
+            },
+            {
+                "nome": "Agent Shell",
+                "versao": "2.1.0.0"
+            },
+            {
+                "nome": "Epson Software Updater",
+                "versao": "4.6.7"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2017 X86 Additional Runtime - 14.16.27024",
+                "versao": "14.16.27024"
+            },
+            {
+                "nome": "Epson ScanSmart",
+                "versao": "3.7.17"
+            },
+            {
+                "nome": "TightVNC",
+                "versao": "2.7.10.0"
+            },
+            {
+                "nome": "Epson Connect Printer Setup",
+                "versao": "1.4.9"
+            },
+            {
+                "nome": "EPSON Scan PDF Extensions",
+                "versao": "1.03.02.01"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Epson Event Manager",
+                "versao": "3.11.82"
+            },
+            {
+                "nome": "Brother MFL-Pro Suite DCP-L2540DW series",
+                "versao": "1.0.2.0"
+            }
+        ]
+    }
+]

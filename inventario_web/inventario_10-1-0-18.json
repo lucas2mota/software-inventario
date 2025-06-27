@@ -1,0 +1,257 @@
+[
+    {
+        "data_coleta": "2025-06-27 15:51:03",
+        "predio": "Arouche",
+        "andar": "10º",
+        "setor": "TI",
+        "patrimonio": "S/P",
+        "modelo": "10TXA00CBP",
+        "fabricante": "LENOVO",
+        "processador": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+        "memoria": "12GB",
+        "hostname": "NICOLASICAVC",
+        "ip": "10.1.0.18",
+        "softwares": [
+            {
+                "nome": "IRPF 2025 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País ",
+                "versao": "1.2"
+            },
+            {
+                "nome": "Microsoft OneDrive",
+                "versao": "25.095.0518.0002"
+            },
+            {
+                "nome": "Microsoft Office Professional Plus 2016 - pt-br",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "TeamViewer",
+                "versao": "15.47.3"
+            },
+            {
+                "nome": "WinRAR 5.40 (64-bit)",
+                "versao": "5.40.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2019 X64 Additional Runtime - 14.27.29112",
+                "versao": "14.27.29112"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Verificação de integridade do PC Windows",
+                "versao": "3.6.2204.08001"
+            },
+            {
+                "nome": "AWP 5.1.8 (64-bit)",
+                "versao": "5.1.8.825"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.27.29112",
+                "versao": "14.27.29112"
+            },
+            {
+                "nome": "PC-CCID",
+                "versao": "2.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "Java 8 Update 451 (64-bit)",
+                "versao": "8.0.4510.10"
+            },
+            {
+                "nome": "UpdateAssistant",
+                "versao": "1.25.0.0"
+            },
+            {
+                "nome": "Java(TM) SE Development Kit 17.0.9 (64-bit)",
+                "versao": "17.0.9.0"
+            },
+            {
+                "nome": "SafeSign IC Standard Windows 64-bits",
+                "versao": "3.5.3.0-AET.000"
+            },
+            {
+                "nome": "Update for Windows 10 for x64-based Systems (KB5001716)",
+                "versao": "4.91.0.0"
+            },
+            {
+                "nome": "SafeNet Authentication Client 10.6",
+                "versao": "10.6.115.0"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Licensing Component",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Localization Component",
+                "versao": "16.0.16827.20130"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            },
+            {
+                "nome": "Microsoft Teams Meeting Add-in for Microsoft Office",
+                "versao": "1.24.14501"
+            },
+            {
+                "nome": "Adobe Acrobat (64-bit)",
+                "versao": "25.001.20531"
+            },
+            {
+                "nome": "Microsoft Update Health Tools",
+                "versao": "5.72.0.0"
+            },
+            {
+                "nome": "AnyDesk",
+                "versao": "ad 7.0.15"
+            },
+            {
+                "nome": "Google Chrome",
+                "versao": "137.0.7151.120"
+            },
+            {
+                "nome": "Microsoft Edge",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Microsoft Edge WebView2 Runtime",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "oCam versão 550.0",
+                "versao": "550.0"
+            },
+            {
+                "nome": "Uninstall Samsung Printer Software",
+                "versao": "4.0.0.93"
+            },
+            {
+                "nome": "Web Components",
+                "versao": "3.0.6.27"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810",
+                "versao": "14.40.33810"
+            },
+            {
+                "nome": "hppP1100P1560P1600SeriesLaserJetService",
+                "versao": "001.001.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29112",
+                "versao": "14.27.29112.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            },
+            {
+                "nome": "MarketResearch",
+                "versao": "130.0.374.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "osrss",
+                "versao": "1.0.0"
+            },
+            {
+                "nome": "Lightshot-5.5.0.7",
+                "versao": "5.5.0.7"
+            },
+            {
+                "nome": "CentBrowser",
+                "versao": "1.1.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33810",
+                "versao": "14.40.33810.0"
+            },
+            {
+                "nome": "Java Auto Updater",
+                "versao": "2.8.451.10"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810",
+                "versao": "14.40.33810"
+            },
+            {
+                "nome": "OMNIKEY 3x21 PC/SC Driver",
+                "versao": "3.0.1.0"
+            },
+            {
+                "nome": "Agent Shell",
+                "versao": "2.1.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable",
+                "versao": "8.0.61001"
+            },
+            {
+                "nome": "hppusgP1100P1560P1600Series",
+                "versao": "1.0.0.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+                "versao": "9.0.30729.6161"
+            },
+            {
+                "nome": "SCR3xxx Smart Card Reader",
+                "versao": "8.41"
+            },
+            {
+                "nome": "update_server",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Adobe Refresh Manager",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "TightVNC",
+                "versao": "2.7.10.0"
+            },
+            {
+                "nome": "Advanced IP Scanner 2.5.1",
+                "versao": "2.5.4594.1"
+            },
+            {
+                "nome": "MSI to redistribute MS VS2005 CRT libraries",
+                "versao": "8.0.50727.42"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                "versao": "12.0.21005"
+            }
+        ]
+    }
+]

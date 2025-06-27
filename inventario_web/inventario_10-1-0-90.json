@@ -1,0 +1,165 @@
+[
+    {
+        "data_coleta": "2025-06-27 16:28:31",
+        "predio": "Arouche",
+        "andar": "7º",
+        "setor": "Rh",
+        "patrimonio": "003584",
+        "modelo": "Vostro 3710",
+        "fabricante": "Dell Inc.",
+        "processador": "12th Gen Intel(R) Core(TM) i3-12100",
+        "memoria": "8GB",
+        "hostname": "RH003584",
+        "ip": "10.1.0.90",
+        "softwares": [
+            {
+                "nome": "EPSON L5590 Series Printer Uninstall",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Microsoft Office Professional Plus 2019 - pt-br",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "WinRAR 7.00 (64-bit)",
+                "versao": "7.00.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Licensing Component",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Localization Component",
+                "versao": "16.0.10730.20102"
+            },
+            {
+                "nome": "EpsonNet Print",
+                "versao": "3.2.0.0"
+            },
+            {
+                "nome": "Microsoft Teams Meeting Add-in for Microsoft Office",
+                "versao": "1.25.14602"
+            },
+            {
+                "nome": "Microsoft Update Health Tools",
+                "versao": "5.72.0.0"
+            },
+            {
+                "nome": "Update for x64-based Windows Systems (KB5001716)",
+                "versao": "8.94.0.0"
+            },
+            {
+                "nome": "Epson Data Collection Agent",
+                "versao": "7.1"
+            },
+            {
+                "nome": "Epson PC-FAX Driver",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Epson Scan 2",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Google Chrome",
+                "versao": "137.0.7151.120"
+            },
+            {
+                "nome": "Microsoft Edge",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Microsoft Edge WebView2 Runtime",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Epson Photo+",
+                "versao": "4.0.2.0"
+            },
+            {
+                "nome": "Uninstall Samsung Printer Software",
+                "versao": "4.0.0.93"
+            },
+            {
+                "nome": "Manual Epson L5590",
+                "versao": "1.0"
+            },
+            {
+                "nome": "Epson FAX Utility",
+                "versao": "4.04.02.01"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27027",
+                "versao": "14.16.27027.1"
+            },
+            {
+                "nome": "CentBrowser",
+                "versao": "1.1.0"
+            },
+            {
+                "nome": "Epson Printer Connection Checker",
+                "versao": "3.4.1.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2017 X86 Minimum Runtime - 14.16.27024",
+                "versao": "14.16.27024"
+            },
+            {
+                "nome": "Agent Shell",
+                "versao": "2.1.0.0"
+            },
+            {
+                "nome": "Epson Software Updater",
+                "versao": "4.6.7"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2017 X86 Additional Runtime - 14.16.27024",
+                "versao": "14.16.27024"
+            },
+            {
+                "nome": "Epson ScanSmart",
+                "versao": "3.7.17"
+            },
+            {
+                "nome": "TightVNC",
+                "versao": "2.7.10.0"
+            },
+            {
+                "nome": "Epson Connect Printer Setup",
+                "versao": "1.4.9"
+            },
+            {
+                "nome": "EPSON Scan PDF Extensions",
+                "versao": "1.03.02.01"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Epson Event Manager",
+                "versao": "3.11.82"
+            },
+            {
+                "nome": "Brother MFL-Pro Suite DCP-L2540DW series",
+                "versao": "1.0.2.0"
+            }
+        ]
+    }
+]

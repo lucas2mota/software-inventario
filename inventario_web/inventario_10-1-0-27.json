@@ -1,0 +1,597 @@
+[
+    {
+        "data_coleta": "2025-06-27 15:51:04",
+        "predio": "Arouche",
+        "andar": "10º",
+        "setor": "TI",
+        "patrimonio": "S/P",
+        "modelo": "Inspiron 3030S",
+        "fabricante": "Dell Inc.",
+        "processador": "12th Gen Intel(R) Core(TM) i3-12100",
+        "memoria": "8GB",
+        "hostname": "PalermoTI",
+        "ip": "10.1.0.27",
+        "softwares": [
+            {
+                "nome": "Pacote de Driver do Windows - SAMSUNG Electronics Co., Ltd.  (WinUSB) AndroidUsbDeviceClass  (12/02/2015 2.12.1.0)",
+                "versao": "12/02/2015 2.12.1.0"
+            },
+            {
+                "nome": "Pacote de Driver do Windows - SAMSUNG Electronics Co., Ltd.  (dg_ssudbus) USB  (12/02/2015 2.12.1.0)",
+                "versao": "12/02/2015 2.12.1.0"
+            },
+            {
+                "nome": "Pacote de Driver do Windows - SAMSUNG Electronics Co., Ltd.  (ssudmdm) Modem  (12/02/2015 2.12.1.0)",
+                "versao": "12/02/2015 2.12.1.0"
+            },
+            {
+                "nome": "Pacote de Driver do Windows - Google, Inc. (WinUSB) AndroidUsbDeviceClass  (08/27/2012 7.0.0000.00004)",
+                "versao": "08/27/2012 7.0.0000.00004"
+            },
+            {
+                "nome": "CPUID CPU-Z 1.97",
+                "versao": "1.97"
+            },
+            {
+                "nome": "CrystalDiskInfo 8.12.12",
+                "versao": "8.12.12"
+            },
+            {
+                "nome": "Desinstalar Impressora EPSON L4150 Series",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Desinstalar Impressora EPSON Universal Print Driver",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Firebird 2.5.0.26074 (x64)",
+                "versao": "2.5.0.26074"
+            },
+            {
+                "nome": "Mem Reduct",
+                "versao": "3.5.2"
+            },
+            {
+                "nome": "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+                "versao": "10.0.50903"
+            },
+            {
+                "nome": "Pacote de Idiomas do Microsoft Visual Studio 2010 Tools for Office Runtime (x64) - Português (Brasil)",
+                "versao": "10.0.50903"
+            },
+            {
+                "nome": "PaperCut NG",
+                "versao": "23.0.6.68529"
+            },
+            {
+                "nome": "Microsoft Office Professional Plus 2016 - pt-br",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "Sublime Text",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "TeamViewer",
+                "versao": "15.67.3"
+            },
+            {
+                "nome": "WinRAR 5.40 (64-bit)",
+                "versao": "5.40.0"
+            },
+            {
+                "nome": "WinToHDD",
+                "versao": "6.6.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "PuTTY release 0.75 (64-bit)",
+                "versao": "0.75.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable (x64)",
+                "versao": "8.0.56336"
+            },
+            {
+                "nome": "Acronis Drivers",
+                "versao": "27.0.39939"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "Oracle VM VirtualBox 7.0.8",
+                "versao": "7.0.8"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 5.0.17 (x64)",
+                "versao": "40.68.31219"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148",
+                "versao": "9.0.30729.4148"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "64 Bit HP CIO Components Installer",
+                "versao": "6.2.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 5.0.17 (x64)",
+                "versao": "40.68.31213"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+                "versao": "9.0.30729.6161"
+            },
+            {
+                "nome": "Microsoft Power BI Desktop (x64)",
+                "versao": "2.131.1203.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 6.0.22 (x64)",
+                "versao": "48.88.914"
+            },
+            {
+                "nome": "Microsoft .NET Runtime - 6.0.22 (x64)",
+                "versao": "48.88.905"
+            },
+            {
+                "nome": "Microsoft .NET Host FX Resolver - 5.0.17 (x64)",
+                "versao": "40.68.31213"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Licensing Component",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Extensibility Component",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "Office 16 Click-to-Run Localization Component",
+                "versao": "16.0.4266.1003"
+            },
+            {
+                "nome": "EpsonNet Print",
+                "versao": "3.2.0.0"
+            },
+            {
+                "nome": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+                "versao": "10.0.50908"
+            },
+            {
+                "nome": "Revo Uninstaller 2.2.8",
+                "versao": "2.2.8"
+            },
+            {
+                "nome": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - PTB",
+                "versao": "10.0.50903"
+            },
+            {
+                "nome": "Microsoft .NET Host - 6.0.22 (x64)",
+                "versao": "48.88.905"
+            },
+            {
+                "nome": "Microsoft Teams Meeting Add-in for Microsoft Office",
+                "versao": "1.25.14205"
+            },
+            {
+                "nome": "Adobe Acrobat (64-bit)",
+                "versao": "25.001.20531"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable (x64)",
+                "versao": "8.0.61000"
+            },
+            {
+                "nome": "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)",
+                "versao": "2.0.50728"
+            },
+            {
+                "nome": "Epson Customer Research Participation",
+                "versao": "1.83.0000"
+            },
+            {
+                "nome": "Verificação de integridade do PC Windows",
+                "versao": "3.2.2110.14001"
+            },
+            {
+                "nome": "Microsoft Update Health Tools",
+                "versao": "5.72.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "Microsoft .NET Host - 5.0.17 (x64)",
+                "versao": "40.68.31213"
+            },
+            {
+                "nome": "Microsoft .NET Host FX Resolver - 6.0.22 (x64)",
+                "versao": "48.88.905"
+            },
+            {
+                "nome": "AnyDesk",
+                "versao": "ad 9.0.7"
+            },
+            {
+                "nome": "Bematech Spooler Drivers v4.3.1.0",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Bematech User Software",
+                "versao": "Bematech User Software v2.8.3 for 64 bits"
+            },
+            {
+                "nome": "Brave",
+                "versao": "138.1.80.113"
+            },
+            {
+                "nome": "Driver Booster 12",
+                "versao": "12.3.0"
+            },
+            {
+                "nome": "Google Chrome",
+                "versao": "138.0.7204.49"
+            },
+            {
+                "nome": "KeePass Password Safe 2.57.1",
+                "versao": "2.57.1"
+            },
+            {
+                "nome": "Microsoft Edge",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Microsoft Edge WebView2 Runtime",
+                "versao": "137.0.3296.93"
+            },
+            {
+                "nome": "Mozilla Firefox 28.0 (x86 pt-BR)",
+                "versao": "28.0"
+            },
+            {
+                "nome": "Mozilla Maintenance Service",
+                "versao": "28.0"
+            },
+            {
+                "nome": "Nmap 7.97",
+                "versao": "7.97"
+            },
+            {
+                "nome": "Npcap",
+                "versao": "1.82"
+            },
+            {
+                "nome": "oCam versão 550.0",
+                "versao": "550.0"
+            },
+            {
+                "nome": "PrintWayy",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Samsung Printer Center",
+                "versao": "1.0.0.12"
+            },
+            {
+                "nome": "Tftpd64 Standalone Edition (remove only)",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Uninstall Samsung Printer Software",
+                "versao": "4.0.0.93"
+            },
+            {
+                "nome": "Web Components",
+                "versao": "3.0.7.500"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664",
+                "versao": "12.0.40664.0"
+            },
+            {
+                "nome": "ELGINUtilitySetup V1.2.2.28",
+                "versao": "V1.2.2.28"
+            },
+            {
+                "nome": "hppP1100P1560P1600SeriesLaserJetService",
+                "versao": "001.001.0.0"
+            },
+            {
+                "nome": "Scan",
+                "versao": "13.0.0.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 6.0.22 (x64)",
+                "versao": "6.0.22.32825"
+            },
+            {
+                "nome": "Brother Scanner Driver",
+                "versao": "1.0.20.1"
+            },
+            {
+                "nome": "MarketResearch",
+                "versao": "130.0.374.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "ControlCenter4 CSDK",
+                "versao": "4.3.2.1"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148",
+                "versao": "9.0.30729.4148"
+            },
+            {
+                "nome": "WicReset version 5.90.0.0",
+                "versao": "5.90.0.0"
+            },
+            {
+                "nome": "Microsoft Windows Desktop Runtime - 5.0.17 (x64)",
+                "versao": "5.0.17.31219"
+            },
+            {
+                "nome": "BufferChm",
+                "versao": "130.0.331.000"
+            },
+            {
+                "nome": "Microsoft PowerBI Desktop (x64)",
+                "versao": "2.131.1203.0"
+            },
+            {
+                "nome": "Lightshot-5.5.0.7",
+                "versao": "5.5.0.7"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+                "versao": "11.0.61030.0"
+            },
+            {
+                "nome": "HowToGuide",
+                "versao": "1.0.1.0"
+            },
+            {
+                "nome": "CentBrowser",
+                "versao": "1.1.0"
+            },
+            {
+                "nome": "PCFaxTx",
+                "versao": "1.0.18.1"
+            },
+            {
+                "nome": "4500G510af_Software_Min",
+                "versao": "000.0.423.000"
+            },
+            {
+                "nome": "WebReg",
+                "versao": "130.0.132.017"
+            },
+            {
+                "nome": "Brother PCFax Driver",
+                "versao": "1.4.0.0"
+            },
+            {
+                "nome": "neroxml",
+                "versao": "1.0.0"
+            },
+            {
+                "nome": "PC-FAXReceive",
+                "versao": "1.6.17.0"
+            },
+            {
+                "nome": "ScannerUtilityInstaller",
+                "versao": "1.0.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "Counter-Strike 1.6 versão 3.0",
+                "versao": "3.0"
+            },
+            {
+                "nome": "HPSSupply",
+                "versao": "130.0.371.000"
+            },
+            {
+                "nome": "Toolbox",
+                "versao": "130.0.648.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2005 Redistributable",
+                "versao": "8.0.61001"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "hppusgP1100P1560P1600Series",
+                "versao": "1.0.0.1"
+            },
+            {
+                "nome": "Brother Printer Driver",
+                "versao": "1.3.0.0"
+            },
+            {
+                "nome": "4500G510af",
+                "versao": "000.0.423.000"
+            },
+            {
+                "nome": "ELGIN Printer Driver v1.8.0",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "NetworkRepairTool",
+                "versao": "1.2.15.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+                "versao": "9.0.30729"
+            },
+            {
+                "nome": "DocProc",
+                "versao": "13.0.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+                "versao": "9.0.30729.6161"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+                "versao": "12.0.40664.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34438",
+                "versao": "14.42.34438"
+            },
+            {
+                "nome": "MSI to redistribute MS VS2005 CRT libraries",
+                "versao": "8.0.50727.42"
+            },
+            {
+                "nome": "update_server",
+                "versao": "Desconhecido"
+            },
+            {
+                "nome": "Adobe Refresh Manager",
+                "versao": "1.8.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438",
+                "versao": "14.42.34438.0"
+            },
+            {
+                "nome": "BrLogRx",
+                "versao": "1.0.2.1"
+            },
+            {
+                "nome": "StatusMonitor",
+                "versao": "1.22.25.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438",
+                "versao": "14.42.34438.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+                "versao": "11.0.61030"
+            },
+            {
+                "nome": "BrLauncher",
+                "versao": "2.0.17.0"
+            },
+            {
+                "nome": "4500_G510af_Help",
+                "versao": "000.0.439.000"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+                "versao": "11.0.61030.0"
+            },
+            {
+                "nome": "ControlCenter4",
+                "versao": "4.6.22.1"
+            },
+            {
+                "nome": "iVMS-4200",
+                "versao": "3.6.1.5"
+            },
+            {
+                "nome": "MobaXterm",
+                "versao": "21.2.0.4642"
+            },
+            {
+                "nome": "hppLaserJetService",
+                "versao": "001.001.0.0"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664",
+                "versao": "12.0.40664"
+            },
+            {
+                "nome": "TightVNC",
+                "versao": "2.7.10.0"
+            },
+            {
+                "nome": "Advanced IP Scanner 2.5.1",
+                "versao": "2.5.4594.1"
+            },
+            {
+                "nome": "BrSupportTools",
+                "versao": "1.0.27.0"
+            },
+            {
+                "nome": "RemoteSetup",
+                "versao": "3.10.3.0"
+            },
+            {
+                "nome": "MSI to redistribute MS VS2005 CRT libraries",
+                "versao": "8.0.50727.42"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                "versao": "10.0.40219"
+            },
+            {
+                "nome": "HP Unified IO",
+                "versao": "2.0.0.434"
+            },
+            {
+                "nome": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                "versao": "12.0.30501.0"
+            },
+            {
+                "nome": "Realtek Ethernet Controller All-In-One Windows Driver",
+                "versao": "10.60.615.2022"
+            },
+            {
+                "nome": "UsbRepairTool",
+                "versao": "1.4.0.0"
+            }
+        ]
+    }
+]

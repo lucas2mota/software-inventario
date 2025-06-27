@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Detalhes - {{ pc.hostname }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="p-4">
+    <div class="container">
+        <h2>Detalhes do PC: {{ pc.hostname }}</h2>
+        <p><strong>Patrimônio:</strong>
+  <span id="patrimonio-texto">{{ pc.patrimonio or "Não informado" }}</span>
+  <button onclick="mostrarFormulario()" style="margin-left: 10px;">Editar</button>
+</p>
+
+<form id="formulario-edicao" method="POST" action="/atualizar_patrimonio/{{ pc.hostname }}" style="display: none;">
+  <input type="text" name="novo_patrimonio" id="novo_patrimonio" placeholder="Novo Patrimônio" value="{{ pc.patrimonio }}">
+  <button type="submit">Salvar</button>
+  <button type="button" onclick="cancelarEdicao()">Cancelar</button>
+</form>
+
+<script>
+  function mostrarFormulario() {
+    document.getElementById("formulario-edicao").style.display = "inline";
+    document.getElementById("patrimonio-texto").style.display = "none";
+  }
+
+  function cancelarEdicao() {
+    document.getElementById("formulario-edicao").style.display = "none";
+    document.getElementById("patrimonio-texto").style.display = "inline";
+  }
+</script>
+        <p><strong>Prédio:</strong> {{ pc.predio }}</p>
+        <p><strong>Andar:</strong> {{ pc.andar }}</p>
+        <p><strong>Setor:</strong> {{ pc.setor }}</p>
+        <p><strong>Processador:</strong> {{ pc.processador }}</p>
+        <p><strong>Memória:</strong> {{ pc.memoria }}</p>
+        <p><strong>IP:</strong> {{ pc.ip }}</p>
+        <p><strong>Modelo:</strong> {{ pc.modelo }}</p>
+        <p><strong>Fabricante:</strong> {{ pc.fabricante }}</p>
+        <p><strong>Data da coleta:</strong> {{ pc.data_coleta }}</p>
+
+        <h4 class="mt-4">Softwares Instalados:</h4>
+        <ul>
+            {% for sw in pc.softwares %}
+            <li>{{ sw.nome }} - {{ sw.versao }}</li>
+            {% endfor %}
+        </ul>
+
+        <a href="/" class="btn btn-primary mt-3">Voltar</a>
+    </div>
+</body>
+</html>

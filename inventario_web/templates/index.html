@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <title>Inventário Geral - Unidades</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+<div class="container mt-4">
+    <h2>Inventário Geral</h2>
+    <a href="{{ url_for('logout') }}" class="btn btn-danger mb-3 float-end">Logout</a>
+
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs" id="unidadeTabs" role="tablist">
+        {% for unidade in unidades.keys() %}
+        <li class="nav-item" role="presentation">
+            <button class="nav-link {% if loop.first %}active{% endif %}" id="tab-{{ unidade }}" data-bs-toggle="tab" data-bs-target="#content-{{ unidade }}" type="button" role="tab" aria-controls="content-{{ unidade }}" aria-selected="{% if loop.first %}true{% else %}false{% endif %}">
+                {{ unidade }}
+            </button>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <!-- Tab panes -->
+    <div class="tab-content mt-3" id="unidadeTabsContent">
+        {% for unidade, pcs in unidades.items() %}
+        <div class="tab-pane fade {% if loop.first %}show active{% endif %}" id="content-{{ unidade }}" role="tabpanel" aria-labelledby="tab-{{ unidade }}">
+            {% if pcs %}
+                <ul class="list-group">
+                    {% for pc in pcs %}
+                    <li class="list-group-item">
+                        <strong>{{ pc.hostname }}</strong> - IP: {{ pc.ip }} - Prédio: {{ pc.predio }} - Andar: {{ pc.andar }}
+                        &nbsp; <a href="{{ url_for('detalhe', hostname=pc.hostname) }}" class="btn btn-sm btn-primary float-end">Ver detalhes</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p>Nenhum PC cadastrado para esta unidade.</p>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
