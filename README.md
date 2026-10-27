@@ -32,7 +32,7 @@ Este é um sistema de inventário de computadores e softwares desenvolvido em Py
 
 - Python 3 instalado
 - Windows
-- Acesso à rede interna (ex: `\\10.1.0.41\Compartilhada\JSONS`)
+- Acesso à rede interna (ex: `\\10.1.0.0\Compartilhada\JSONS`)
 
 ### 🎮 Modo local (coleta do inventário)
 
@@ -44,7 +44,7 @@ Este é um sistema de inventário de computadores e softwares desenvolvido em Py
 
 1. Execute `app.py`
 2. Acesse no navegador: [http://localhost:5000](http://localhost:5000) ou pelo IP da VM.
-3. Login: `admin` — Senha: `ti!#0529*`
+3. Login: `admin` — Senha: `sua senha`
 
 ## 🧠 Estrutura do Projeto
 inventario/
