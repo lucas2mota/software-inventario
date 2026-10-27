@@ -13,7 +13,7 @@ import winreg
 # Inicializa o WMI (usado para coletar info de hardware no Windows)
 c = wmi.WMI()
 
-CAMINHO_REDE = r"\\10.1.0.41\Compartilhada\JSONS"
+CAMINHO_REDE = r"SEU CAMINHO DE REDE"
 
 # Dicionário com prédios e seus andares
 predios_andares = {
